@@ -1,0 +1,11 @@
+{
+  "name": "Chart.Scatter.js",
+  "version": "1.0.0-beta",
+  "description": "Scatter implementation for Chart.js",
+  "homepage": "https://github.com/nnnick/Chart.js",
+  "author": "Regaddi",
+  "main": ["Chart.Scatter.js"],
+  "dependencies": {
+  	"Chart.js": "1.0.0-beta"
+  }
+}
